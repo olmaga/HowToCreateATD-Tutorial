@@ -3,18 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Turret : MonoBehaviour {
-    public float range = 15f;
-    public Transform partToRotate;
 
+    [Header ("Attributes")]
+    public float range = 15f;
+    public float fireRate = 1f;
+    public float rotationSpeed = 10f;
+
+    [Header ("Unity Setup Fields")]
+    public Transform partToRotate;
+    public GameObject bulletPrefab;
+    public Transform firePoint;
+
+    private string enemyTag = "Enemy";
     private Transform target;
-    private float rotationSpeed = 10f;
+    private float cooldown = 0f;
 
     void Start () {
         InvokeRepeating ("UpdateTarget", 0f, 0.5f);
     }
 
     void UpdateTarget () {
-        GameObject[] enemies = GameObject.FindGameObjectsWithTag ("Enemy");
+        GameObject[] enemies = GameObject.FindGameObjectsWithTag (enemyTag);
         float shortestDistance = Mathf.Infinity;
         GameObject nearestEnemy = null;
 
@@ -39,6 +48,21 @@ public class Turret : MonoBehaviour {
         }
 
         RotateToTarget ();
+
+        if (cooldown <= 0f) {
+            Shoot ();
+            cooldown = 1f / fireRate;
+        }
+
+        cooldown -= Time.deltaTime;
+    }
+
+    void Shoot () {
+        GameObject bulletGO = (GameObject) Instantiate (bulletPrefab, firePoint.position, firePoint.rotation);
+        Bullet bullet = bulletGO.GetComponent<Bullet> ();
+        if (bullet != null) {
+            bullet.Seek(target);
+        }
     }
 
     void OnDrawGizmosSelected () {
