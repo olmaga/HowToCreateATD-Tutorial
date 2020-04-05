@@ -9171,18 +9171,24 @@ PrefabInstance:
     - target: {fileID: 6607045846659135128, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_Color.r
-      value: 0.34901962
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135128, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.6901961
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135128, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_Color.b
-      value: 0.9843138
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6607045846659135128, guid: f02e80330c6944189bdf087494a6d117,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 908e8963e04bb4c969c8bf8b4ebee56e,
+        type: 3}
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -9206,7 +9212,7 @@ PrefabInstance:
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: PurchaseAnotherTurred
+      value: PurchaseMissileLauncher
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
@@ -9217,6 +9223,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MissileLauncherItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 6607045846659135134, guid: f02e80330c6944189bdf087494a6d117,
+        type: 3}
+      propertyPath: m_PreferredWidth
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 6607045846659135134, guid: f02e80330c6944189bdf087494a6d117,
+        type: 3}
+      propertyPath: m_PreferredHeight
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135135, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
@@ -13876,7 +13892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   standardTurretPrefab: {fileID: 4746863593217956003, guid: 32bf424efe00146e09df51f0b8fb57d4,
     type: 3}
-  anotherTurretPrefab: {fileID: 4457857491457376357, guid: 9710f92b025b642ceaec2f9ab1d5f291,
+  missileLauncherPrefab: {fileID: 6804367679118509638, guid: 4e1eff63107ea4bbdbcf0a65f81ccb86,
     type: 3}
 --- !u!1001 &1303911738
 PrefabInstance:
@@ -22637,6 +22653,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9b99b0114c2a4eb2a821c2465601e84, type: 3}
+--- !u!1001 &194984175067716403
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4214959129076085022, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_Name
+      value: Missile
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b292b128d828842bfa455d5550893304, type: 3}
 --- !u!4 &3887797195077281791 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7378785815887206298, guid: aa85d47ecb1a841d095d5d8a3152cd7c,
