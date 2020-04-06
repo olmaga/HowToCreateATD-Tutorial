@@ -132,6 +132,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &10509299
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -227,6 +228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 6804367679118509638, guid: 4e1eff63107ea4bbdbcf0a65f81ccb86, type: 3}
 --- !u!1 &23547368 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -247,6 +249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &24811537 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -267,6 +270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &42768725 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -287,6 +291,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &47812300
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -763,6 +768,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &64159223 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -783,6 +789,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &67407852
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1103,6 +1110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &87862958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1198,6 +1206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &91371709 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -1218,6 +1227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &96687989 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -1238,6 +1248,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &104907043
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1408,6 +1419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &128069723 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -1428,6 +1440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &130513700
 GameObject:
   m_ObjectHideFlags: 0
@@ -1620,6 +1633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &138301799
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1715,6 +1729,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &142219419 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -1735,6 +1750,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &153290444
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1905,6 +1921,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &173946615
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2000,6 +2017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &179312454 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2020,6 +2038,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &179621050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2190,6 +2209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &199249094 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2210,6 +2230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &199518710 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2230,6 +2251,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &203440689
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2416,6 +2438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &206633523 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2436,6 +2459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &216781818 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2456,6 +2480,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &217098439 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2476,6 +2501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &218887509
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2571,6 +2597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &232929517 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2591,6 +2618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &234146583 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -2611,6 +2639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &234423742
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2754,6 +2783,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &250047005
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3672,6 +3702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &317850789
 GameObject:
   m_ObjectHideFlags: 0
@@ -3783,6 +3814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &327136540
 GameObject:
   m_ObjectHideFlags: 0
@@ -4044,6 +4076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &364635659 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4064,6 +4097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &366659930 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4084,6 +4118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &385094276 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4104,6 +4139,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &385176286 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4124,6 +4160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &385442365 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4144,6 +4181,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &389591363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4239,6 +4277,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &392986458
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4409,6 +4448,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &408885220
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4504,6 +4544,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &431722467 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -4524,6 +4565,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &441920208
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4769,6 +4811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &456058414
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4864,6 +4907,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &473259161
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5200,6 +5244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &492166912
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5370,6 +5415,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &507629990 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -5390,6 +5436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &508289579
 GameObject:
   m_ObjectHideFlags: 0
@@ -5501,6 +5548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &517306305
 GameObject:
   m_ObjectHideFlags: 0
@@ -5843,6 +5891,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &529425434 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -5863,6 +5912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &529529315 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -5883,6 +5933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -6001,6 +6052,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &537686245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6171,6 +6223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &552321691 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6191,6 +6244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &573045081 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6211,6 +6265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &574038501 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6231,6 +6286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &574712401
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6482,6 +6538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &599762290 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6502,6 +6559,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &609739986 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6522,6 +6580,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &610917548
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6692,6 +6751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &624603578 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -6712,6 +6772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &625487525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6807,6 +6868,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &638627827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7224,6 +7286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &691180479 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -7244,6 +7307,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &691200781
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7339,6 +7403,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &715107598 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -7359,6 +7424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &719080488
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7529,6 +7595,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &723985569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7624,6 +7691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &737013616 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -7644,6 +7712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &741292477 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -7664,6 +7733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &741446304
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7840,6 +7910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &753457482
 GameObject:
   m_ObjectHideFlags: 0
@@ -8026,6 +8097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &771361033
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8121,6 +8193,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &784336991 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -8141,6 +8214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &785872483 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -8161,6 +8235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &788377740
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8256,6 +8331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &795411107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8351,6 +8427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &798693239
 GameObject:
   m_ObjectHideFlags: 0
@@ -8462,6 +8539,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e78c90d573ef44e28800397e03a00c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  standardTurret:
+    prefab: {fileID: 4746863593217956003, guid: 32bf424efe00146e09df51f0b8fb57d4,
+      type: 3}
+    cost: 100
+  missileLauncher:
+    prefab: {fileID: 6804367679118509638, guid: 4e1eff63107ea4bbdbcf0a65f81ccb86,
+      type: 3}
+    cost: 250
 --- !u!1001 &800813069
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8557,6 +8642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &805051129
 GameObject:
   m_ObjectHideFlags: 0
@@ -8840,6 +8926,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &814829342
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8935,6 +9022,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &820580889
 GameObject:
   m_ObjectHideFlags: 0
@@ -9046,6 +9134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &828776045 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -9066,6 +9155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &829919779 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -9086,6 +9176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &846173772
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9212,7 +9303,7 @@ PrefabInstance:
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: PurchaseMissileLauncher
+      value: SelectMissileLauncher
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
@@ -9367,6 +9458,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &857529054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10309,6 +10401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &904182063 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10329,6 +10422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &905915753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10424,6 +10518,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &908022497
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10519,6 +10614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &927936933 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10539,6 +10635,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &929784088 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10559,6 +10656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &931903652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10745,6 +10843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &942693443
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10820,6 +10919,83 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 942693443}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &950887090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 950887091}
+  - component: {fileID: 950887093}
+  - component: {fileID: 950887092}
+  m_Layer: 5
+  m_Name: MoneyCounter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &950887091
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950887090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2137488735}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 300, y: -52}
+  m_SizeDelta: {x: 600, y: 200}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &950887092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950887090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 50
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 5
+    m_MaxSize: 50
+    m_Alignment: 3
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Money?
+--- !u!222 &950887093
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950887090}
+  m_CullTransparentMesh: 0
 --- !u!1 &957846333 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10840,6 +11016,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &966440421
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10935,6 +11112,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &970275140 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10955,6 +11133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &970426484 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -10975,6 +11154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &970868890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11145,6 +11325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &996672331 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -11165,6 +11346,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1002848430 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -11185,6 +11367,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1010279885
 GameObject:
   m_ObjectHideFlags: 0
@@ -11596,6 +11779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1039610624 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -11616,6 +11800,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1067732839
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11711,6 +11896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1068838112
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11956,6 +12142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1093587565 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -11976,6 +12163,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1094364675 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -11996,6 +12184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1095980563 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12016,6 +12205,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1121020632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12342,6 +12532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1137742690 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12362,6 +12553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1138987809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12457,6 +12649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1140695908 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12477,6 +12670,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1145713309 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12497,6 +12691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1157524850 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12517,6 +12712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1165083452 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -12537,6 +12733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1166537312
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12632,6 +12829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1179879046
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12952,6 +13150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1188120229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13122,6 +13321,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1209897469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13292,6 +13492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1256030705 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -13312,6 +13513,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1270981544 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -13332,6 +13534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1277719154
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13508,6 +13711,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1284465599
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13603,6 +13807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1291173765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13839,6 +14044,7 @@ GameObject:
   - component: {fileID: 1303124940}
   - component: {fileID: 1303124939}
   - component: {fileID: 1303124941}
+  - component: {fileID: 1303124942}
   m_Layer: 0
   m_Name: GameMaster
   m_TagString: Untagged
@@ -13894,6 +14100,20 @@ MonoBehaviour:
     type: 3}
   missileLauncherPrefab: {fileID: 6804367679118509638, guid: 4e1eff63107ea4bbdbcf0a65f81ccb86,
     type: 3}
+--- !u!114 &1303124942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303124938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00fa6832426c3409db0b9cc79be30586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startMoney: 400
+  moneyDisplay: {fileID: 0}
 --- !u!1001 &1303911738
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13995,6 +14215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1316038617
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14337,6 +14558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1352023980
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14657,6 +14879,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1396781597 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -14677,6 +14900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1397649684
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14772,6 +14996,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1403189537 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -14792,6 +15017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1409116202
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15037,6 +15263,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1416744809 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -15057,6 +15284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1421086119
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15152,6 +15380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1431083855 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -15172,6 +15401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1434160511
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15267,6 +15497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1435275092 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -15287,6 +15518,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1437164867
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15457,6 +15689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1441803017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15702,6 +15935,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1449252873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15797,6 +16031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1453580222 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -15817,6 +16052,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1458186735 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -15837,6 +16073,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1462692391
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16082,6 +16319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1481913521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16252,6 +16490,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1487932679 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -16272,6 +16511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1493430872
 GameObject:
   m_ObjectHideFlags: 0
@@ -16383,6 +16623,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1508439647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16630,6 +16871,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1538732990
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16725,6 +16967,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1541801212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17045,6 +17288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1559051716 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -17065,6 +17309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1567051702 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -17085,6 +17330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1569643219 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -17105,6 +17351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1569676266 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -17125,6 +17372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1571571491
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17376,6 +17624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1582884246 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -17396,6 +17645,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1583689520
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17566,6 +17816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1602152895
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17886,6 +18137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1631209868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17981,6 +18233,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1638619878
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18323,6 +18576,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1657280749
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18643,6 +18897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1665616345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18963,6 +19218,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1766344622 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -18983,6 +19239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1776014881 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19003,6 +19260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1781381876 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19023,6 +19281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1797642020 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19043,6 +19302,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1802970324 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19063,6 +19323,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1807134657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19443,6 +19704,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1825325115 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19463,6 +19725,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1835126238
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19633,6 +19896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1844247682 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -19653,6 +19917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1849042503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19823,6 +20088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1868648048
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19999,6 +20265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1879923626 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20019,6 +20286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1882894881 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20039,6 +20307,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1886724245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20059,6 +20328,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1895809677
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20154,6 +20424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1907358977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20249,6 +20520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1911168252 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20269,6 +20541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1911269076
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20820,6 +21093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1941182734 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20840,6 +21114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1948926630 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20860,6 +21135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1949119656 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20880,6 +21156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &1951629145 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -20900,6 +21177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1954095018
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20995,6 +21273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &1961980534
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21306,6 +21585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2006246852 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -21326,6 +21606,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &2006818671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21421,6 +21702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &2009108023
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21682,6 +21964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &2034318093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21927,6 +22210,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2052348217 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -21947,6 +22231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2065488487 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -21967,6 +22252,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2075731766 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -21987,6 +22273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2081877463 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -22007,6 +22294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2093767269
 GameObject:
   m_ObjectHideFlags: 0
@@ -22343,6 +22631,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2119315247 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4314288909496254101, guid: bd588f8ce3cbe4aa6b54cc97b5737fb2,
@@ -22363,6 +22652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &2127764959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22458,6 +22748,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1 &2137488731
 GameObject:
   m_ObjectHideFlags: 0
@@ -22550,6 +22841,7 @@ RectTransform:
   m_Children:
   - {fileID: 1516049378}
   - {fileID: 798693240}
+  - {fileID: 950887091}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -22578,6 +22870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
   positionOffset: {x: 0, y: 0.5, z: 0}
+  turret: {fileID: 0}
 --- !u!1001 &118688296727702175
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22653,75 +22946,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9b99b0114c2a4eb2a821c2465601e84, type: 3}
---- !u!1001 &194984175067716403
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4214959129076085022, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_Name
-      value: Missile
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.41
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7573592313815383148, guid: b292b128d828842bfa455d5550893304,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b292b128d828842bfa455d5550893304, type: 3}
 --- !u!4 &3887797195077281791 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7378785815887206298, guid: aa85d47ecb1a841d095d5d8a3152cd7c,
@@ -22852,7 +23076,7 @@ PrefabInstance:
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: PurchaseStandardTurret
+      value: SelectStandardTurret
       objectReference: {fileID: 0}
     - target: {fileID: 6607045846659135129, guid: f02e80330c6944189bdf087494a6d117,
         type: 3}
